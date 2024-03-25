@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://i.imgur.com/9Nc3fWz.png" title='Screenshot' width='' alt='Screenshot' />
-<img src="https://i.imgur.com/D6BmveC.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/1wvKKIp.png" title='Screenshot' width='' alt='Screenshot' />
 <img src="https://i.imgur.com/D6BmveC.png" title='Screenshot' width='' alt='Screenshot' />
 
 
