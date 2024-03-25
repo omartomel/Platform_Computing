@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Features
 
