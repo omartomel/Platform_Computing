@@ -19,9 +19,13 @@ The following **bonus** features are implemented:
 - [ ] Create separate Tables (SQL) or Documents (NoSQL) for each metric and relate
 them via user (2 pt).
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
+- [ ] 
 ## Screenshot and/or Video Walkthrough
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough'
-width='' alt='Example Video Walkthrough' />
+<img src="https://i.imgur.com/6Sn3Rl4.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/i2frQIW.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/ib8KxJb.png" title='Screenshot' width='' alt='Screenshot' />
+
+
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
 add emphasis in text
