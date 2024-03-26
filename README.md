@@ -3,7 +3,7 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 ## Features
 The following **required** features are completed:
-- [ ] Organize Github projects for Assignment 3 (2 pts)
+- [X] Organize Github projects for Assignment 3 (2 pts)
 - [ ] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the
 webpage (2 pts)
 - [ ] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF
