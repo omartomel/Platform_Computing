@@ -11,6 +11,16 @@ async function extendPresenceTime() {
         //opens & navigates to the specified page
         await driver.get('http://kingdarian.fobby.net/enemies.php?enemy=155');
 
+
+
+
+
+
+
+
+
+
+        
         //checks for links on the page using findElements & starts the count with 0
         let links = await driver.findElements(By.tagName('a'));
         let linkCount = links.length;
@@ -35,6 +45,13 @@ async function extendPresenceTime() {
             }
         }
 
+
+
+
+
+
+
+        
         //calculcates the time we spent on the page
         let endTime = Date.now();
         presenceTime += endTime - startTime;
