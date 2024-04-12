@@ -18,7 +18,11 @@ The following **bonus** features are implemented:
 - [ ] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 ## Screenshot and/or Video Walkthrough
-
+<img src="https://i.imgur.com/nEqo73Y.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/bWxIJmZ.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/ib8KxJb.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/6Sn3Rl4.png" title='Screenshot' width='' alt='Screenshot' />
+<img src="https://i.imgur.com/i2frQIW.png" title='Screenshot' width='' alt='Screenshot' />
 
 
 ## Notes:
